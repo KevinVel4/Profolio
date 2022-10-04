@@ -492,6 +492,7 @@ nav {
 */
 
 .section__title {
+  position: relative;
   text-align: center;
   font-size: 48px;
   margin-bottom: 60px;
